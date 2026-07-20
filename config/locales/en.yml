@@ -6,7 +6,7 @@
 en:
   title: "@tunefl ♩"
   footer:
-    copyright: "© tunefl.com & tiredpixel 2012 - 2015 ♮ tunefl is free software, released
+    copyright: "© <REDACTED> & tiredpixel 2012 - 2015 ♮ tunefl is free software, released
 under the MIT License."
     tiredpixel: "More sleep lost by tiredpixel."
   about:
@@ -16,17 +16,17 @@ under the MIT License."
     title: "Legal"
     copyright:
       title: "Copyright"
-      body: "We ask that users submitting content confirm that they own the copyright to the content they submit and license tunefl.com to use it, or that the content is suitably licensed, or that the content is in the public domain. We reserve the right to unpublish content from tunefl.com, if we choose. If you believe that content for which you own the copyright has been used without your permission, then please <a href='mailto:en@tunefl.com'>contact us</a>. <em>Encourage the arts. Please do not steal.</em>"
+      body: "We ask that users submitting content confirm that they own the copyright to the content they submit and license <REDACTED> to use it, or that the content is suitably licensed, or that the content is in the public domain. We reserve the right to unpublish content from <REDACTED>, if we choose. If you believe that content for which you own the copyright has been used without your permission, then please <a href='mailto:en@<REDACTED>'>contact us</a>. <em>Encourage the arts. Please do not steal.</em>"
     license:
       title: "License"
-      body: "© tunefl.com & tiredpixel 2012 - 2015 ♮ tunefl is free software, released
+      body: "© <REDACTED> & tiredpixel 2012 - 2015 ♮ tunefl is free software, released
 under <a href='https://github.com/tiredpixel/tunefl/blob/master/LICENSE'>the MIT License</a>. ♮ The tunefl code is available on <a href='https://github.com/tiredpixel/tunefl'>GitHub</a>. Contributions are embraced with much love and affection! :D"
   score:
     form:
       introduction: "All you need to do is to add Music ♬. But you can fill in the other fields, too, if you like. We only support mini-scores, not whole pages! ;) Take a look at our examples on this page; underneath each score is written the text which generated it. ♮ We use the excellent <a href='http://lilypond.org'>LilyPond</a> music notation engine (<a href='http://lilypond.org/doc/v2.12/Documentation/user/lilypond/Writing-pitches#Note-names-in-other-languages'>English variant</a>), so <a href='http://lilypond.org/text-input.html'>all sorts of musical magic is possible</a>."
       music_placeholder: "c d8 e f g a b c1"
       title: "Engrave a new mini-score. ☆"
-      legal: "By clicking <strong>Engrave ↣</strong>: I confirm that I own the copyright to the content I am submitting and license tunefl.com to use it, or that the content is suitably licensed, or that the content is in the public domain; I agree to the tunefl.com <a href='/legal'>terms of use</a>."
+      legal: "By clicking <strong>Engrave ↣</strong>: I confirm that I own the copyright to the content I am submitting and license <REDACTED> to use it, or that the content is suitably licensed, or that the content is in the public domain; I agree to the <REDACTED> <a href='/legal'>terms of use</a>."
       donotsteal: "Encourage the arts. Please do not steal."
     show:
       pending:
@@ -36,7 +36,7 @@ under <a href='https://github.com/tiredpixel/tunefl/blob/master/LICENSE'>the MIT
       unusable:
         title: "The music was a little too experimental! ⚠"
         subtitle: "Sorry; we couldn't engrave the music. :("
-        contact: "Maybe it's your fault. Maybe it's ours. If the former, please <a href='/'>create a new score</a>, with valid syntax. If the latter, we apologise profusely.<br />In either case, please feel free to wave to us <a href='https://twitter.com/tunefl'>@tunefl</a> with a link to this page, and we'll do our best to explain. :)<br />(Or, if you haven't built a Twitter-nest, then <a href='mailto:en@tunefl.com'>email</a>.)"
+        contact: "Maybe it's your fault. Maybe it's ours. If the former, please <a href='/'>create a new score</a>, with valid syntax. If the latter, we apologise profusely.<br />In either case, please feel free to wave to us <a href='https://twitter.com/tunefl'>@tunefl</a> with a link to this page, and we'll do our best to explain. :)<br />(Or, if you haven't built a Twitter-nest, then <a href='mailto:en@<REDACTED>'>email</a>.)"
   activerecord:
     attributes:
       score:

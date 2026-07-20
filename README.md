@@ -7,7 +7,7 @@
 
 [LilyPond](http://lilypond.org) mini-score engraving and sharing service for musicians.
 
-The live Tunefl service is at [tunefl.com](https://www.tunefl.com).
+The live Tunefl service is at [<REDACTED>](https://www.<REDACTED>).
 
 More sleep lost by [tiredpixel](https://www.tiredpixel.com).
 
